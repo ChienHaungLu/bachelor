@@ -1,6 +1,7 @@
 # Senior Project
 ## Model Architecture
 本組專題架構圖如下, 從Feature refinement: An expression-specific feature learning and fusion method for micro-expression recognition論文改良而來
+
 ![ProjectArchitecture](/Fig/ProjectArchitecture.png)
 
 <br>
