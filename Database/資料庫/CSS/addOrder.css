@@ -1,0 +1,40 @@
+#information{
+    overflow: auto;
+    padding: 30px 10px;
+    padding-left:20px ;
+    background-color: #bcb8b1c9;
+    border-radius: 20px;
+    width: 1100px;
+    margin: auto;
+    margin-top: 150px;
+}
+#information>div{
+    float: left;
+    width: 250px;
+}
+#orderNumber{
+    outline: none;
+}
+#block{
+    width: 800px;
+    margin: auto;
+    margin-top: 80px;
+    overflow: auto;
+}
+#addProduct,#addOrder{
+    padding: 8px 0px;
+    width: 120px;
+    float: right;
+    background-color:#8a817c;
+    border:solid 2px #8a817c;
+    color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+#addProduct:hover,#addOrder:hover{
+    cursor: pointer;
+    background-color:white;
+    border:solid 2px white;
+    color: #8a817c;
+}

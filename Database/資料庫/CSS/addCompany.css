@@ -1,0 +1,30 @@
+#information{
+    overflow: auto;
+    padding: 30px 10px;
+    padding-left:20px ;
+    background-color: #bcb8b1c9;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 150px;
+}
+#information>div{
+    float: left;
+    width: 15%;
+}
+#information>div>input{
+    outline: none;
+}
+#addButton{
+    margin-left: 20px;
+    padding: 5px 0px;
+    width: 100px;
+    background-color:#8a817c;
+    border:solid 2px #8a817c;
+    color: white;
+    border-radius: 10px;
+}#addButton:hover{
+    cursor: pointer;
+    background-color:white;
+    border:solid 2px white;
+    color: #8a817c;
+}

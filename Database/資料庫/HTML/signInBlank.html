@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>sign in</title>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="../CSS/common.css">
+  <link rel="stylesheet" href="../CSS/signIn.css">
+</head>
+<body>
+	<div id="login_frame">
+        <p id="sign">Sign in</p>
+        <form method="post" action="../PHP/signIn.php" >
+            <p><label class="label_input">Account</label><input type="text" id="account" name = "account" class="text_field"/></p>
+            <p><label class="label_input">Password</label><input type="password" id="password" name = "password" class="text_field"/></p>
+            <p style="text-align: left;margin-left: 30px;"><label id = "error"><b>帳號及密碼不得為空</b></label></p>
+            <div id="login_control">
+                <input type="submit" name = "btn_login" id="btn_login" value="登入"/>
+            </div>
+        </form>
+  </div>
+  <script src="../JS/navbar.js"></script>
+</body>
+</html>

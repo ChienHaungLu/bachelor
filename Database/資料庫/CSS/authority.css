@@ -1,0 +1,38 @@
+#divAddNewStaff{
+    padding: 40px 0px;
+}
+#addNewStaff{
+    padding: 10px 0px 10px 0px;
+    width: 150px;
+    margin-right:40px;
+    float: right;
+    background-color:#8a817c;
+    border:solid 2px #8a817c;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+}
+#addNewStaff:hover{
+    cursor: pointer;
+    background-color:white;
+    border:solid 2px white;
+    color: #8a817c;
+}
+#addNewStaffA{
+    color: white;
+    text-decoration: none;
+}
+#addNewStaffA:hover{
+    color:#8a817c;
+}
+#staffDiv{
+    margin-left: 100px;
+    margin-top:40px;
+}
+.staff{
+    color: #8a817c;
+    font-size: 26px;
+}
+.staffList{
+    overflow: auto;
+}

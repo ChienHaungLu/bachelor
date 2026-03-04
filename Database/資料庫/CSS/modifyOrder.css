@@ -1,0 +1,37 @@
+#information{
+    overflow: auto;
+    padding: 30px 10px;
+    padding-left:20px ;
+    background-color: #bcb8b1c9;
+    border-radius: 20px;
+    width: 1100px;
+    margin: auto;
+    margin-top: 150px;
+}
+#information>div{
+    float: left;
+    width: 25%;
+}
+#orderNumber{
+    outline: none;
+}
+
+#buttonDiv{
+    float: right;
+    margin-right: 100px;
+}
+.orderButton{
+    padding: 3px 0px;
+    width: 100px;
+    background-color:#8a817c;
+    border:solid 2px #8a817c;
+    color: white;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.orderButton:hover{
+    cursor: pointer;
+    background-color:white;
+    border:solid 2px white;
+    color: #8a817c;
+}

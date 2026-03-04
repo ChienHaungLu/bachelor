@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\zzz\Desktop\test\Project1\Project1\Source.cpp(82): warning C6386: 寫入 'distMatrix' 時發生緩衝區滿溢:    可寫入的大小只有 '(unsigned int)nOfElements*sizeof(double)' 個位元組，但可能被寫入了 '16' 個位元組。
+C:\Users\zzz\Desktop\test\Project1\Project1\Source.cpp(361): warning C6262: 函式使用 '89644' 個位元組的堆疊: 超過 /analyze:stacksize '16384'。 考慮將部分資料移至堆積。
+C:\Users\zzz\Desktop\test\Project1\Project1\Source.cpp(446): warning C6278: 'P2' 是以陣列 new [] 配置，但以純量 delete 刪除。將不會呼叫解構函式; 必須以陣列 delete [] 刪除。
+C:\Users\zzz\Desktop\test\Project1\Project1\Source.cpp(393): warning C6001: 使用的記憶體 'P1' 尚未初始化。

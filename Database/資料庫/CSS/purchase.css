@@ -1,0 +1,19 @@
+#buttonDiv{
+    float: right;
+    margin-top: 40px;
+}
+#searchButton,#addButton{
+    padding: 10px 0px 10px 0px;
+    width: 150px;
+    margin-right:40px;
+    background-color:#8a817c;
+    border:solid 2px #8a817c;
+    color: white;
+    border-radius: 10px;
+}
+#searchButton:hover,#addButton:hover{
+    cursor: pointer;
+    background-color:white;
+    border:solid 2px white;
+    color: #8a817c;
+}

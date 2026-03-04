@@ -1,0 +1,30 @@
+﻿  Source.cpp
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,40): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,40): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,60): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,60): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,73): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,73): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,96): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,96): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,109): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,109): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,131): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,131): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,144): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(6,144): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,44): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,44): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,64): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,64): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,77): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,77): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,100): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,100): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,113): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,113): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,135): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,135): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,148): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Project1\Source.cpp(7,148): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> C:\Users\zzz\Desktop\110-1課程專用\計算機圖學\作業報告撰寫區\第三次作業\Volume Subdivision\Project1\Debug\Project1.exe

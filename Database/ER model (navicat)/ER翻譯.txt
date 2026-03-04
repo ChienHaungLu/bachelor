@@ -1,0 +1,55 @@
+職位別 position
+positionId 
+positionName
+
+職員 staff
+staffId 
+staffName
+positionId 
+account
+password
+positionStatus (職員狀態) 
+
+進貨單purchase order
+purchaseOrderId 
+orderDate
+supplierId 
+operator
+
+進貨商 supplier
+supplierId
+phoneNumber 
+address 
+supplierName
+leaderName
+
+報銷單 verification sheet
+verificationSheetId 
+staffId
+
+商品明細 commodity details 
+commodityDetailsId 
+purchaseOrderId 
+commodityId 
+item(件數)
+cost(成本)
+totalQuantity(總數量) (測試資料留空)
+totalExpenses(總支出)
+
+商品 commodity 
+commodityId 
+commodityName
+supplierId 
+commoditySet(入數)
+
+
+報銷單明細verification sheet details 
+verificationSheetDetailsId 
+verificationSheetId 
+commodityId
+verificationSheetQuantity (瑕疵數量/報銷數量)
+
+庫存資料stock data
+stockId 
+commodityId 
+stockQuantity

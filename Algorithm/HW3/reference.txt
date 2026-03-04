@@ -1,0 +1,41 @@
+參考資料:
+
+[Insertion Sort & Selection]
+https://shengyu7697.github.io/cpp-selection-sort/
+https://kopu.chat/2017/06/20/%E9%81%B8%E6%93%87%E6%8E%92%E5%BA%8F-selection-sort/
+https://www.softwaretestinghelp.com/insertion-sort/
+http://www.cplusplus.com/forum/beginner/3857/
+http://alrightchiu.github.io/SecondRound/comparison-sort-insertion-sortcha-ru-pai-xu-fa.html
+
+[Merge Sort & Selection]
+https://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html
+https://www.geeksforgeeks.org/merge-sort/
+https://lakesd6531.pixnet.net/blog/post/344227318
+https://www.itread01.com/content/1546945776.html
+https://www.programiz.com/dsa/merge-sort
+
+[Quick Sort & Selection]
+https://dotblogs.com.tw/Ace_Dream/2016/06/03/quicksort
+https://www.geeksforgeeks.org/cpp-program-for-quicksort/
+https://openhome.cc/Gossip/AlgorithmGossip/QuickSort3.htm
+https://dreamisadream97.pixnet.net/blog/post/168570963-quick-sort%28%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%29
+http://program-lover.blogspot.com/2008/11/quicksort.html
+
+[QuickSelection]
+https://aticleworld.com/quickselect-algorithm/
+https://magiclen.org/quickselect/
+https://www.geeksforgeeks.org/quickselect-algorithm/
+https://stackoverflow.com/questions/36176907/implementation-of-the-quick-select-algorithm-to-find-kth-smallest-number
+https://www.techiedelight.com/quickselect-algorithm/
+https://www.itread01.com/content/1545039782.html
+
+[Median-of-medians Select algorithm]
+http://sunmoon-template.blogspot.com/2017/10/median-of-medians-algorithm.html
+https://followtutorials.com/2017/10/selection-algorithm-implementation-in-c.html
+https://stackoverflow.com/questions/9683343/median-of-median-implementation
+https://www.cs.cornell.edu/courses/cs2110/2009su/Lectures/examples/MedianFinding.pdf
+https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/lectures/09/Small09.pdf
+https://yiqi2.wordpress.com/2013/07/03/median-of-medians-selection-algorithm/
+https://codereview.stackexchange.com/questions/230179/median-of-medians-quickselect-filter-in-c
+https://oneraynyday.github.io/algorithms/2016/06/17/Median-Of-Medians/
+https://www.isa-afp.org/browser_info/current/AFP/Median_Of_Medians_Selection/document.pdf

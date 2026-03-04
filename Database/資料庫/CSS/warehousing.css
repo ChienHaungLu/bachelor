@@ -1,0 +1,27 @@
+#warehousingTable{
+    margin-left: 100px;
+    border-collapse: collapse;
+    margin-top: 130px;
+    
+}
+#title > th{
+    border: 2px #cccccc solid;
+    padding: 2px 8px;
+    background-color: white;
+}
+#modifyButton{
+    padding: 5px 0px;
+    width: 80px;
+    background-color:#8a817c;
+    border:solid 2px #8a817c;
+    color: white;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+#modifyButton:hover{
+    cursor: pointer;
+    background-color:white;
+    border:solid 2px white;
+    color: #8a817c;
+}

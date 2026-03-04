@@ -1,0 +1,5 @@
+資料庫.rar為整個網頁式資料庫的檔案，解壓縮後需先丟到: "\xampp\htdocs"
+
+再開啟無痕網頁來使用本資料庫，使用前請務必先匯入sql檔案資料到phpmyadmin
+
+另外解壓縮後請務必更改 "資料庫\PHP\company_open.inc"  裡面的mysqli_connect資訊
