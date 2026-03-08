@@ -1,6 +1,12 @@
 # Senior Project
 ## Model Architecture
-本組專題架構圖如下, 從Feature refinement: An expression-specific feature learning and fusion method for micro-expression recognition論文改良而來
+本組專題架構圖如下, 從Feature refinement: An expression-specific feature learning and fusion method for micro-expression recognition論文改良及創新
+- 使用pytorch作為深度學習框架，並使用google所開發的Mediapipe套件對資料集進行預處理(pre-processing) 
+
+- 使用光流法(Optical Flow)捕捉臉部表情肌肉運動並使用Inception V1網路作為動態特徵(dynamic feature)捕捉，額外使用CNN去做靜態特徵提取，靜態特徵在此指的是原先臉部影像上就存在的特徵(例如: 皺紋、膚色…等)，原始論文只考慮動態特徵但並未考慮靜態特徵的情況下，可能導致辨識的準確率受到影響
+
+- 使用Attention機制將表情特徵送入多個Attention子網路去學習微表情類別，其中透過self-attention去計算相關性，從而判斷表情特徵是否為特定表情類別作為最終輸出，最後使用Softmax進行分類(正向、負向、驚訝、其他)
+
 
 ![ProjectArchitecture](Fig/ProjectArchitecture.png)
 
